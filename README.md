@@ -60,6 +60,6 @@
   </ul>
 
   <h2 style="font-weight: 900;">Estado del Proyecto</h2>
-<p>Actualmente, el endpoint `usuarios/respuestas` ya es funcional y permite interactuar con las respuestas de los usuarios. Sin embargo, es importante tener en cuenta que algunnos endpoint aún está en proceso de construcción. Esto significa que aunque puedes utilizarlo para realizar operaciones básicas, como la obtención, creación, actualización y eliminación de respuestas de usuarios..
+<p>Actualmente, los endpoints ya ingresados son funcionales y permiten interactuar con las respuestas de los usuarios. Sin embargo, es importante tener en cuenta que algunnos endpoint aún está en proceso de construcción. Esto significa que aunque puedes utilizarlo para realizar operaciones básicas, como la obtención, creación, actualización y eliminación de respuestas de usuarios..
 
 Durante este período de construcción, podrías notar cambios ocasionales en la estructura de respuesta o en la lógica de funcionamiento de los endpoint. </p>
