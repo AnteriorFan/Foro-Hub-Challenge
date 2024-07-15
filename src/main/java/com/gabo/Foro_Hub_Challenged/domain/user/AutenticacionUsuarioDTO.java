@@ -1,4 +1,5 @@
 package com.gabo.Foro_Hub_Challenged.domain.user;
 
-public class AutenticacionUsuarioDTO {
+public record AutenticacionUsuarioDTO(String email, String contrasena) {
+
 }
